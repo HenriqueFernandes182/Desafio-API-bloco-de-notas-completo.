@@ -1,0 +1,17 @@
+{
+  "name": "Henrique",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/HenriqueFernandes182/Desafio-API-bloco-de-notas-completo..git",
+  "author": "HenriqueFernandes182 <hicky_hc@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
